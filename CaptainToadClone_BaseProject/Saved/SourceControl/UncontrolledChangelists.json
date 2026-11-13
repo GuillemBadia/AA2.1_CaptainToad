@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_AnimationBP.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Map.umap",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_Skeleton.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/CollisionNotify.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_PhysicsAsset.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Coconut.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_Anim_Walking_B.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_Montage.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_Anim_1H_Melee_Attack_Slice_Diagonal.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_Anim_Dodge_Forward.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight_Anim_Idle.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/CollisionNotifyState.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/Characters/MainCharacter/Knight.uasset",
+				"C:/Users/GuillemBadiaPortillo/Documents/ENTI/Unreal/AA2.1_CaptainToad/CaptainToadClone_BaseProject/Content/ThirdPerson/Input/Actions/IA_Move1.uasset"
+			]
+		}
+	]
+}
